@@ -1,0 +1,7 @@
+Stefan Emmons
+COSC 2030-01
+Lab 07
+Dr. Hill, or Pedro Marquez
+4-2-2019
+
+I believe the biggest drawback of this data structure is the amount of memory it can potentially hog. This is all dependent on what the user sets the array size to. For now, it's set to a million, which seems to operate well. Anything larger than this could cause noticeably slower sorting time, and since this linear sorting algorithm is praised for it's speed, this would be the opposite of a good thing.
